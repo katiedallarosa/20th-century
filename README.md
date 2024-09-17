@@ -21,6 +21,4 @@ The project leverages data scraped from Wikipedia. These resources are integral 
 The insights derived from this analysis will cater to:
 - the Institute for Public Policy
 ## Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the [Final Project Presentation].
-
 This analysis is not only about uncovering insights about past events, but also about providing a clearer understanding of the historical relationships between countries in the twentieth century, thereby supporting the Institute for Public Policy's larger initiative tied to the current geopolitical climate.
